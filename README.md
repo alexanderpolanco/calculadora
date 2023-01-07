@@ -3,4 +3,4 @@
 - Clean architecture
 - Atomic design
 #
-![Imagen de la calculadora](public\preview.jpg)
+![Imagen de la calculadora](https://github.com/alexanderpolanco/calculadora/blob/main/public/preview.jpg?raw=true)
